@@ -1,0 +1,15 @@
+{
+  "brand": "ktmtechlab.com",
+  "last_updated": "2026-11-26T07:45:00+05:45",
+  "last_updated_note": "Nepal Time (NPT, UTC+05:45). Seed data: estimates until the first scraper run.",
+  "items": [
+    {"id":"m-redmi-note13","category":"mobile","store":"Sample Store A","name":"Redmi Note 13 (8/128GB)","specs":"6.67\" AMOLED | 108MP | 5000mAh","url":"https://example.com/redmi-note-13","price_npr":28500,"previous_price_npr":30500,"price_drop_npr":2000,"status":"seed"},
+    {"id":"m-galaxy-a15","category":"mobile","store":"Sample Store A","name":"Samsung Galaxy A15 (6/128GB)","specs":"6.5\" AMOLED | 50MP | 5000mAh","url":"https://example.com/galaxy-a15","price_npr":25500,"previous_price_npr":null,"price_drop_npr":0,"status":"seed"},
+    {"id":"m-realme-c67","category":"mobile","store":"Sample Store B","name":"Realme C67 (8/128GB)","specs":"6.72\" 90Hz | 108MP | 33W","url":"https://example.com/realme-c67","price_npr":22500,"previous_price_npr":23500,"price_drop_npr":1000,"status":"seed"},
+    {"id":"m-poco-x6","category":"mobile","store":"Sample Store B","name":"POCO X6 5G (8/256GB)","specs":"6.67\" AMOLED 120Hz | 64MP OIS | 67W","url":"https://example.com/poco-x6","price_npr":41500,"previous_price_npr":null,"price_drop_npr":0,"status":"seed"},
+    {"id":"l-hp15-r5","category":"laptop","store":"Sample Store A","name":"HP 15 Ryzen 5 (16GB/512GB)","specs":"15.6\" FHD | Ryzen 5 7520U | 16GB | 512GB SSD","url":"https://example.com/hp-15-r5","price_npr":72000,"previous_price_npr":75000,"price_drop_npr":3000,"status":"seed"},
+    {"id":"l-ideapad3-i5","category":"laptop","store":"Sample Store C","name":"Lenovo IdeaPad Slim 3 i5 (16GB/512GB)","specs":"15.6\" FHD | Core i5-12450H | 16GB | 512GB","url":"https://example.com/ideapad-slim-3","price_npr":82000,"previous_price_npr":null,"price_drop_npr":0,"status":"seed"},
+    {"id":"l-vivobook15-i3","category":"laptop","store":"Sample Store C","name":"ASUS Vivobook 15 i3 (8GB/512GB)","specs":"15.6\" FHD | Core i3-1215U | 8GB | 512GB","url":"https://example.com/vivobook-15","price_npr":58500,"previous_price_npr":null,"price_drop_npr":0,"status":"seed"},
+    {"id":"l-aspire5-r7","category":"laptop","store":"Sample Store B","name":"Acer Aspire 5 Ryzen 7 (16GB/512GB)","specs":"15.6\" FHD | Ryzen 7 5825U | 16GB | 512GB","url":"https://example.com/aspire-5","price_npr":94500,"previous_price_npr":97500,"price_drop_npr":3000,"status":"seed"}
+  ]
+}
